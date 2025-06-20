@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=feafriz&locale=en&mode=daily&theme=buefy&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=feafriz&locale=en&mode=daily&theme=buefy&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div>
 
 ###
