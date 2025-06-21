@@ -5,9 +5,9 @@
 <p align="center">𝙹𝚞𝚜𝚝 𝚊 𝚙𝚕𝚊𝚌𝚎 𝚝𝚘 𝚜𝚑𝚊𝚛𝚎 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚗𝚍 𝚝𝚛𝚊𝚌𝚔 𝚖𝚢 𝚓𝚘𝚞𝚛𝚗𝚎𝚢 𝚊𝚜 𝚊 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚎𝚗𝚝</p>
 
 ###
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=feafriz)](https://git.io/streak-stats)
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=feafriz)](https://git.io/streak-stats)
+  
   <img src="https://streak-stats.demolab.com?user=feafriz&locale=en&mode=daily&theme=buefy&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div>
 
