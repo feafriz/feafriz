@@ -7,6 +7,7 @@
 ###
 
 <div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=feafriz)](https://git.io/streak-stats)
   <img src="https://streak-stats.demolab.com?user=feafriz&locale=en&mode=daily&theme=buefy&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div>
 
