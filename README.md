@@ -6,12 +6,6 @@
 
 ###
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=feafriz&locale=en&mode=daily&theme=buefy&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
   <img height="50" src="https://i.ibb.co/xKcFdW93/Design-sem-nome-14.png"  />
 </div>
 
